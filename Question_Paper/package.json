@@ -1,0 +1,14 @@
+{
+    "name": "question-paper-generator",
+    "version": "1.0.0",
+    "description": "Node.js application to generate question papers",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Vishal",
+    "license": "MIT",
+    "devDependencies": {
+        "jest": "^27.4.3"
+    }
+}
